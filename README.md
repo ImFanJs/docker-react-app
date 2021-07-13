@@ -1,6 +1,6 @@
 # Getting Started with Docker, React and nginx
 
-This project is a test to create a container for a frontend app created with React and served in production mode with nginx
+This project is a test to create a container for a frontend app created with React and served in production with nginx
 
 ## Available Scripts
 
